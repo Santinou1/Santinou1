@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santino Ursino</h1>
 <h3 align="center">FullStack Developer Argentino 19 Años</h3>
-<h3 align="center">Cursando la carrera de Ingeniera En Sistemas</h3>
-<h3 align="center">Actualmente estoy por el Tercer Año</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
